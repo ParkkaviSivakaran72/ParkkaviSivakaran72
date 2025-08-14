@@ -1,25 +1,18 @@
-<table>
-  <tr>
-    <td align="center">
-      <img src="YOUR_PROFILE_PICTURE_URL" width="200" alt="Profile Picture"/>
-    </td>
-    <td>
-      ## 🚀 About Me  
-      🎓 *2nd Year CSE Student | University of Moratuwa*  
-      💡 Exploring Web Technologies, Software Engineering, and Full Stack Development  
+## 🚀 About Me
 
-      I'm a Computer Science undergraduate passionate about building **full-stack applications**, solving complex problems, and exploring modern technologies.
+![Profile Picture](YOUR_PROFILE_PICTURE_URL =200x200)
 
-      ### 🌐 About Me
-      - 📍 Based in Colombo, Sri Lanka
-      - 💻 Passionate about Web Development, App Development, UI/UX, AI/ML
-      - 🛠 Currently building: *Subscription-based Online Learning Platform*
-      - ✉️ Reach me: [email@example.com](mailto:email@example.com)
-    </td>
-  </tr>
-</table>
+🎓 *3rd Year CSE Student | University of Moratuwa*  
+💡 Exploring Web Technologies, Software Engineering, and Full Stack Development  
 
----
+I'm a Computer Science undergraduate passionate about building **full-stack applications**, solving complex problems, and exploring modern technologies.
+
+### 🌐 Details
+- 📍 Based in Colombo, Sri Lanka  
+- 💻 Passionate about Web Development, App Development, UI/UX, AI/ML  
+- 🛠 Currently building: *Subscription-based Online Learning Platform*  
+- ✉️ Reach me: parkkavisivakaran72@gmail.com](parkkavisivakaran72@gmail.com)
+
 
 ## 🛠 Technologies & Tools 
 
@@ -29,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" width="50" height="50" alt="Vite" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50" alt="Tailwindcss" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="50" height="50" alt="Tailwindcss" />
 </p>
 
 
@@ -58,10 +51,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkkaviSivakaran72&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)](YOUR_GITHUB_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/
+parkkavi-sivakaran-aba162258)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)](https://github.com/ParkkaviSivakaran72)
