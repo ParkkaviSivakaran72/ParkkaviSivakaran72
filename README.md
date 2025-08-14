@@ -1,6 +1,7 @@
 ## 🚀 About Me
 
-![Profile Picture](YOUR_PROFILE_PICTURE_URL =200x200)
+![Profile Picture](YOUR_PROFILE_PICTURE_URL)
+
 
 🎓 *3rd Year CSE Student | University of Moratuwa*  
 💡 Exploring Web Technologies, Software Engineering, and Full Stack Development  
@@ -54,8 +55,7 @@ I'm a Computer Science undergraduate passionate about building **full-stack appl
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkkaviSivakaran72&show_icons=true&theme=radical)
 
 ---
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/
-parkkavi-sivakaran-aba162258)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parkkavi-sivakaran-aba162258)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)](https://github.com/ParkkaviSivakaran72)
+
