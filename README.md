@@ -1,8 +1,5 @@
 ## 🚀 About Me
 
-![Profile Picture](YOUR_PROFILE_PICTURE_URL)
-
-
 🎓 *3rd Year CSE Student | University of Moratuwa*  
 💡 Exploring Web Technologies, Software Engineering, and Full Stack Development  
 
