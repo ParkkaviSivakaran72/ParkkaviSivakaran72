@@ -7,9 +7,9 @@ I'm a Computer Science undergraduate passionate about building **full-stack appl
 
 ### 🌐 Details
 - 📍 Based in Colombo, Sri Lanka  
-- 💻 Passionate about Web Development, App Development, UI/UX, AI/ML  
+- 💻 Passionate about Web Development, App Development, AI/ML  
 - 🛠 Currently building: *Subscription-based Online Learning Platform*  
-- ✉️ Reach me: parkkavisivakaran72@gmail.com]
+- ✉️ Reach me: parkkavisivakaran72@gmail.com
 
 
 ## 🛠 Technologies & Tools 
