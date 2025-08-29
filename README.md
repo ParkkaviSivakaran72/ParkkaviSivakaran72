@@ -50,6 +50,8 @@ I'm a Computer Science undergraduate passionate about building **full-stack appl
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkkaviSivakaran72&show_icons=true&theme=radical)
+![Stats](./profile-summary-card-output/default/3-stats.svg)
+
 
 ---
 ## 📫 Connect with Me
