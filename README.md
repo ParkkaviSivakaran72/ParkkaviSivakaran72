@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate passionate about building **full-stack appl
 
 ### 🖥 Backend & Database
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><img 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"  alt="Node.js" /><img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
   width="50" 
   style="filter: invert(1) sepia(1) saturate(5) hue-rotate(180deg);" 
